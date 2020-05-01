@@ -21,3 +21,11 @@ fields:
     schema:
       format: markdown
   label: Lead text
+- name: promo_section
+  type: blocks
+  label: Promo section
+  template_types:
+  - card
+  config:
+    min: 
+    max: 
