@@ -17,5 +17,9 @@ promo_section:
   main_image: "/content/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
   card_title: 'Achieve positive meeting outcomes with:'
   card_content: ''
+block_type: ''
+card_title: ''
+card_content: ''
+main_image: ''
 
 ---
