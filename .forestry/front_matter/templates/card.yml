@@ -1,5 +1,5 @@
 ---
-label: Card
+label: Content_block
 hide_body: true
 fields:
 - name: main_image
