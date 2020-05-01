@@ -11,5 +11,10 @@ content_blocks:
   card_title: It's time for hybrid meetings
   main_image: "/content/images/vincent-burkhead-LhlxYMfnTF0-unsplash.jpg"
   card_content: ''
+- template: card
+  block_type: Card
+  card_title: Executive Remuneration whitepaper
+  main_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
+  card_content: ''
 
 ---
