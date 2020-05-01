@@ -2,16 +2,27 @@
 label: Content_block
 hide_body: true
 fields:
-- name: main_image
-  type: file
+- name: block_type
+  type: select
+  default: []
   config:
-    maxSize: 64
-  label: Main image
+    required: false
+    options:
+    - Card
+    - Hero
+    - Main
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Block type
 - name: card_title
   type: text
   config:
     required: false
   label: Title
+  description: This field will appear as the main heading, can be left blank
 - name: card_content
   type: textarea
   default: ''
@@ -21,3 +32,11 @@ fields:
     schema:
       format: markdown
   label: Content
+  description: This field will appear as the main content in page, can be left blank
+- name: main_image
+  type: file
+  config:
+    maxSize: 64
+  label: Main image
+  description: Main image used in the hero and card block types, leave blank if creating
+    a main block
