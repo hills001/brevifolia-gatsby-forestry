@@ -16,5 +16,10 @@ content_blocks:
   card_title: Executive Remuneration whitepaper
   main_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
   card_content: ''
+- template: card
+  block_type: Card
+  card_title: Key issues impacting success at your AGM
+  main_image: "/content/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg"
+  card_content: ''
 
 ---
