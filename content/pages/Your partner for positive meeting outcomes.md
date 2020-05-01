@@ -13,5 +13,9 @@ promo_section:
   main_image: "/content/images/ruslan-bardash-g83y6do219w-unsplash.jpg"
   card_title: It's time for hybrid meetings
   card_content: ''
+- template: card
+  main_image: "/content/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
+  card_title: 'Achieve positive meeting outcomes with:'
+  card_content: ''
 
 ---
