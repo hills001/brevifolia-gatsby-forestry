@@ -5,6 +5,11 @@ lead_text: |-
   A meeting is a key platform for obtaining investor support and market confidence.
 
   Computershare understands the importance of putting your organisation's best foot forward to achieve positive meeting and voting outcomes. From strategy, remuneration, director elections and approach to ESG matters, we understand it is crucial for you to get the support of your key stakeholders.
-content_blocks: []
+content_blocks:
+- template: card
+  block_type: Hero
+  card_title: It's time for hybrid meetings
+  main_image: "/content/images/vincent-burkhead-LhlxYMfnTF0-unsplash.jpg"
+  card_content: ''
 
 ---
