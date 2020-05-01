@@ -26,3 +26,5 @@ fields:
   config: {}
   template: card
   label: Blocks
+pages:
+- content/pages/Your partner for positive meeting outcomes.md
