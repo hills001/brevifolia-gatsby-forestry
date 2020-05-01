@@ -21,10 +21,13 @@ fields:
     schema:
       format: markdown
   label: Lead text
-- name: blocks
-  type: include
-  config: {}
-  template: card
-  label: Blocks
+- name: content_blocks
+  type: blocks
+  label: Content blocks
+  template_types:
+  - card
+  config:
+    min: 
+    max: 
 pages:
 - content/pages/Your partner for positive meeting outcomes.md
